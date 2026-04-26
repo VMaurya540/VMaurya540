@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi, there !<br>I am Vishal Maurya (Vishu). I am a passionate developer from India.<br>
+
+Hi, I'm Vishal Maurya!
+
+Oracle Apps Technical Consultant with 3+ years of experience in Oracle E-Business Suite (R12.1.3 & R12.2).
+
+🔹 Specialized in:
+- R12.2 Upgrade (CEMLI / RICEFW)
+- Oracle Forms Development & Customization
+- RDF Report Retrofit
+- EBR (Editioning Views, Cross Edition Triggers)
+- Concurrent Program Debugging
+
+🔹 Currently Learning:
+- Oracle APEX (Modern Application Development)
+
+I enjoy solving complex Oracle EBS issues and building scalable applications.
+<br>
 
 
 ## 🌐 Socials:
