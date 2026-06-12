@@ -20,7 +20,7 @@ Oracle Apps Technical Consultant with 3+ years of experience in Oracle E-Busines
 ## 🌱 Currently Learning
 
 - Oracle APEX (Modern Application Development)
-
+- Data Science & Generative AI (Python, ML Basics, AI Tools)
 ---
 
 ## 💻 Tech Stack
