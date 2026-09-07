@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vishal Maurya
 
-### 🚀 AI/GenAI Engineer | Oracle Apps Technical Consultant
+### 🚀 AI/GenAI Engineer | Python • LLMs • RAG • Agentic AI
+### 🏢 Oracle Apps Technical Consultant
 
 I am an **Oracle Apps Technical Consultant** with hands-on experience in
 Oracle E-Business Suite, SQL, PL/SQL, Oracle Forms & Reports, and
