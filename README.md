@@ -2,72 +2,68 @@
 
 ## 🚀 AI Engineer | Generative AI Engineer | Oracle Apps Technical Consultant
 
-I am an IT professional with 5+ years of experience in enterprise application development and Oracle E-Business Suite, with hands-on experience in AI/Generative AI projects.
+IT professional with 5+ years of experience in enterprise application development and Oracle E-Business Suite, with hands-on experience in AI/GenAI projects.
 
-My current work includes AI Agents, Agentic AI workflows, NLP-based applications, incident ticket classification, Natural Language-to-SQL, Natural Language-to-CLI, and multi-agent systems.
-
-I am also continuously expanding my expertise in Python, Data Science, Machine Learning, Generative AI, LLMs, RAG, and AI Engineering by building practical projects and documenting my learning journey on GitHub.
+Currently working with Oracle EBS, SQL/PLSQL and AI/GenAI use cases including AI Agents, Agentic AI, NLP-to-SQL and LLM applications.
 
 ---
 
 ## 💼 Currently Working
 
-- 🏢 Oracle Apps Technical Consultant
-- 🔹 Oracle E-Business Suite (EBS)
-- 🔹 SQL & PL/SQL
-- 🔹 Oracle Forms & Reports
-- 🔹 Oracle EBS Technical Upgrade & Enterprise Application Development
-- 🤖 Working on AI/GenAI use cases and Agentic AI workflows
-- 🧠 AI-powered incident ticket classification and automation
-- 🔎 Natural Language-to-SQL and Natural Language-to-CLI applications
-- ☁️ Oracle Cloud Infrastructure (OCI)
+- Oracle EBS & Enterprise Application Development
+- SQL & PL/SQL
+- AI/GenAI & Agentic AI use cases
+- AI Agents and LLM applications
 
 ---
 
 ## 🌱 Currently Learning & Building
 
-I am actively strengthening my AI Engineering skills through hands-on learning and projects.
-
 - 🐍 Python
-- 📊 Data Science
-- 🧠 Machine Learning
-- 🤖 Generative AI
-- 🔤 Large Language Models (LLMs)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain
-- 🔗 LangGraph
-- 🤖 AI Agents
-- 🧩 Agentic AI
-- 👥 Multi-Agent Systems
-- ⚡ FastAPI
-- 📡 REST APIs
-- 📱 Streamlit
-- 🗄️ AI-powered Database Applications
-- 🚀 Production-oriented AI Applications
+- 📊 Data Science & Machine Learning
+- 🤖 Generative AI & LLMs
+- 🔎 RAG
+- 🔗 LangChain & LangGraph
+- 🤖 AI Agents & Agentic AI
+- ⚡ FastAPI & Streamlit
 
 ---
 
-## 🧠 AI Engineering Journey
+## 🚀 Featured Project
 
-```text
-Python
-   ↓
-Data Science
-   ↓
-Machine Learning
-   ↓
-Generative AI
-   ↓
-LLMs
-   ↓
-RAG
-   ↓
-AI Agents
-   ↓
-Agentic AI
-   ↓
-Multi-Agent Systems
-   ↓
-AI Engineering
-   ↓
-Production-ready AI Applications
+### CandidAI — AI-Powered Interview Coach
+
+**Python | Streamlit | Google Gemini API | LLM**
+
+AI-powered application for Resume-to-JD matching, skill-gap analysis, interview generation, answer evaluation and intelligent follow-up questions.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/GenAI:** LLMs • RAG • LangGraph • Agentic AI • AI Agents • Prompt Engineering
+
+**Machine Learning:** PyTorch • Hugging Face • Transformers • scikit-learn • NLP
+
+**Programming:** Python • SQL • PL/SQL • Pandas • NumPy
+
+**Development:** FastAPI • REST APIs • Streamlit • Git • GitHub
+
+**Oracle:** Oracle EBS • Oracle Forms & Reports • OCI • OCI CLI
+
+---
+
+## 📚 Learning Journey
+
+Python → Data Science → Machine Learning → Generative AI → LLMs → RAG → Agentic AI → AI Engineering
+
+---
+
+## 🤝 Connect With Me
+
+💼 [LinkedIn](https://linkedin.com/in/vmaurya540)  
+💻 [GitHub](https://github.com/VMaurya540)
+
+---
+
+⭐ **Keep Learning • Keep Building • Keep Improving**
