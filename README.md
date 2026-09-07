@@ -1,36 +1,55 @@
 # 👋 Hi, I'm Vishal Maurya
 
-### 🚀 AI/GenAI Engineer | Python • LLMs • RAG • Agentic AI
-### 🏢 Oracle Apps Technical Consultant
+## 🚀 AI Engineer | Generative AI Engineer | Oracle Apps Technical Consultant
 
-I am an **Oracle Apps Technical Consultant** with hands-on experience in
-Oracle E-Business Suite, SQL, PL/SQL, Oracle Forms & Reports, and
-enterprise application development.
+I am an IT professional with 5+ years of experience in enterprise application development and Oracle E-Business Suite, with hands-on experience in AI/Generative AI projects.
 
-Currently, I am expanding my expertise into **Python, Data Science,
-Machine Learning, Generative AI, LLM applications, RAG, and AI Engineering**
-by building practical projects and documenting my learning journey on GitHub.
+My current work includes AI Agents, Agentic AI workflows, NLP-based applications, incident ticket classification, Natural Language-to-SQL, Natural Language-to-CLI, and multi-agent systems.
+
+I am also continuously expanding my expertise in Python, Data Science, Machine Learning, Generative AI, LLMs, RAG, and AI Engineering by building practical projects and documenting my learning journey on GitHub.
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Currently Working
 
-- 💼 Oracle Apps Technical Consultant
-- 🏢 Experience in Oracle E-Business Suite and enterprise application development
-- 🗄️ Strong foundation in SQL & PL/SQL
-- 🐍 Developing Python skills for Data Science & AI
-- 📊 Learning Data Science and Machine Learning
-- 🤖 Building Generative AI and LLM-based applications
-- 🔎 Exploring RAG and AI Engineering
-- 🚀 Building practical AI projects
-- 📚 Documenting my learning journey on GitHub
+- 🏢 Oracle Apps Technical Consultant
+- 🔹 Oracle E-Business Suite (EBS)
+- 🔹 SQL & PL/SQL
+- 🔹 Oracle Forms & Reports
+- 🔹 Oracle EBS Technical Upgrade & Enterprise Application Development
+- 🤖 Working on AI/GenAI use cases and Agentic AI workflows
+- 🧠 AI-powered incident ticket classification and automation
+- 🔎 Natural Language-to-SQL and Natural Language-to-CLI applications
+- ☁️ Oracle Cloud Infrastructure (OCI)
 
 ---
 
-## 🧠 Current Focus
+## 🌱 Currently Learning & Building
 
-My current learning and project journey:
+I am actively strengthening my AI Engineering skills through hands-on learning and projects.
 
+- 🐍 Python
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 🔤 Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🔗 LangGraph
+- 🤖 AI Agents
+- 🧩 Agentic AI
+- 👥 Multi-Agent Systems
+- ⚡ FastAPI
+- 📡 REST APIs
+- 📱 Streamlit
+- 🗄️ AI-powered Database Applications
+- 🚀 Production-oriented AI Applications
+
+---
+
+## 🧠 AI Engineering Journey
+
+```text
 Python
    ↓
 Data Science
@@ -43,60 +62,12 @@ LLMs
    ↓
 RAG
    ↓
-AI Engineering
+AI Agents
    ↓
 Agentic AI
-
----
-
-## 🛠️ Technologies
-
-### Oracle Technologies
-- Oracle E-Business Suite
-- Oracle Forms & Reports
-- SQL
-- PL/SQL
-- EBR
-
-### AI & Data
-- Python
-- Data Science
-- Machine Learning
-- Generative AI
-- LLMs
-- RAG
-- Agentic AI
-- LangGraph
-
-### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- SQL Developer
-- Linux
-- PuTTY
-- WinSCP
-
----
-
-## 📂 Learning & Projects
-
-This repository documents my journey from **Python fundamentals to AI Engineering**.
-
-I am focusing on:
-
-- 🐍 Python Practice
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 🔗 LLM Applications
-- 📚 RAG
-- 🕸️ Agentic AI
-- 🚀 Practical AI Projects
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/vmaurya540
-- 💻 GitHub: https://github.com/VMaurya540
+   ↓
+Multi-Agent Systems
+   ↓
+AI Engineering
+   ↓
+Production-ready AI Applications
